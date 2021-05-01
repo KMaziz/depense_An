@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">angel data</string>
+
+    <string name="action_sign_in_short">Inscription</string>
+    <string name="email">Email</string>
+    <string name="name">Prénom</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Connexion</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="hint_oldPassword">Mot de passe actuel</string>
+    <string name="hint_newPassword">Nouveau mot de passe</string>
+    <string name="hint_newPasswordConfirmation">Confirmer le nouveau mot de passe</string>
+    <string name="hint_nomdepense">Titre</string>
+    <string name="hint_montant">Montant</string>
+    <string name="btn_login">Connexion</string>
+    <string name="btn_link_to_register">Pas encore membre ? Inscrivez-vous !</string>
+    <string name="btn_link_to_login">Déjà un compte ? Connectez-vous !</string>
+    <string name="btn_forgot_password">Mot de passe oublié ?</string>
+    <string name="btn_reset_password">Réinitialiser</string>
+    <string name="btn_back">Retour à la page de connexion</string>>
+    <string name="btn_sign_out">Déconnexion</string>
+    <string name="btn_continuer">Continuer</string>
+    <string name="lbl_forgot_password">Réinitialisation du mot de passe</string>
+    <string name="forgot_password_msg">Indiquez votre adresse email et vous recevrez un mail avec les instruction supplémentaires.</string>
+    <string name="choix_groupe_bienvenue">Pour utiliser WeSplit et partager vos dépenses, créez un nouveau groupe ou rejoignez un groupe existant.</string>
+    <string name="choix_groupe_nouveau">Créer un nouveau groupe</string>
+    <string name="choix_groupe_rejoindre">Rejoindre un groupe</string>
+    <string name="btn_ajout_depense">Ajouter la dépense</string>
+    <string name="btn_modification_depense">Modifier la dépense</string>
+    <string name="btn_suppression_depense">Supprimer la dépense</string>
+    <string name="btn_afficher_identifiant_groupe">Inviter des amis</string>
+    <string name="btn_quitter_groupe">Quitter</string>
+    <string name="btn_supprimer_groupe">Supprimer</string>
+    <string name="btn_retour">Retour</string>
+    <string name="btn_edit">Modifier</string>
+    <string name="auth_failed">L\'authentification a échoué</string>
+    <string name="quantit">quantité</string>
+</resources>
